@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/579917198.svg)](https://zenodo.org/badge/latestdoi/579917198)
+
 # comment présenter cet exercice
 
 Cet atelier a été animé en décembre 2022 avec des bibliothécaires comme participants.
