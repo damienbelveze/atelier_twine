@@ -13,8 +13,10 @@ Le temps idéal pour présenter cet atelier est de 3 heures pour un public qui n
 
 # Structure du répertoire
 
-Le dossier Images contient les images de la présentation de Twine. 
-Cette présentation doit être jouée en introduction à l'atelier. Elle donne un rapide aperçu de ce que peut faire Twine.
+Le dossier Images contient les images de la présentation de Twine.   
+
+Cette présentation doit être jouée en introduction à l'atelier. Elle donne un rapide aperçu de ce que peut faire Twine.  
+
 Le dossier Racine contient les principaux documents de l'exercice : 
 
 - Le canevas de l'histoire (à ouvrir avec Twine) : Atelier_RESOUDRE_exercice.html  
