@@ -26,3 +26,8 @@ Le dossier Racine contient les principaux documents de l'exercice :
 - Le fichier de correction (à ouvrir avec un navigateur ou avec Twine) : Atelier_RESOUDRE_correction.html  
 
 Le dialecte Twine utilisé pour l'exercice et l'atelier est Sugarcube 2
+
+# Pour Twine succinctement
+
+Pour une présentation succincte de la solution, il est possible d'utiliser le support publié avec Github Page : https://damienbelveze.github.io/atelier_twine/atelier_adbu
+Si vous disposez d'un peu plus de temps, vous pouvez faire télécharger cette présentation et la proposer aux participants comme point de départ pour créer des embranchements et des passages supplémentaires avec un éditeur Twine (consignes inclues dans la présentation)
